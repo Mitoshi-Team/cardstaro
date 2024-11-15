@@ -1,25 +1,18 @@
-var builder = WebApplication.CreateBuilder(args);
+using TaroEmployee.TaroLogic;
 
-// Add services to the container.
-builder.Services.AddRazorPages();
+Console.WriteLine("Введите дату рождения (формат: дд.мм.гггг):");
+string birthDateInput = Console.ReadLine();
+DateTime birthDate = DateTime.ParseExact(birthDateInput, "dd.MM.yyyy", null);
 
-var app = builder.Build();
+Console.WriteLine("Введите год для расчета карты года:");
+int year = int.Parse(Console.ReadLine());
 
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
-{
-    app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
-}
+TarotService tarotService = new TarotService();
 
-app.UseHttpsRedirection();
-app.UseStaticFiles();
+TarotCard lifePathCard = tarotService.CalculateLifePathCard(birthDate);
+TarotCard yearCard = tarotService.CalculateYearCard(birthDate, year);
+int suitNumber = tarotService.CalculateSuitNumber(birthDate);
 
-app.UseRouting();
-
-app.UseAuthorization();
-
-app.MapRazorPages();
-
-app.Run();
+Console.WriteLine($"Карта жизненного пути: {lifePathCard.Name}");
+Console.WriteLine($"Карта года: {yearCard.Name}");
+Console.WriteLine($"Число для мастей карты Таро: {suitNumber}");

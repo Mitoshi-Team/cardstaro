@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{CC480304-30B6-43AF-A74E-85FAF8B9867B}|TaroEmployee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC480304-30B6-43AF-A74E-85FAF8B9867B}|TaroEmployee.csproj|c:\\users\\machinespirit\\desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepotaro\\cardstaro\\taroemployee\\tarologic\\tarotcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC480304-30B6-43AF-A74E-85FAF8B9867B}|TaroEmployee.csproj|solutionrelative:tarologic\\tarotcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CC480304-30B6-43AF-A74E-85FAF8B9867B}|TaroEmployee.csproj|c:\\users\\machinespirit\\desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepotaro\\cardstaro\\taroemployee\\tarologic\\tarotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC480304-30B6-43AF-A74E-85FAF8B9867B}|TaroEmployee.csproj|solutionrelative:tarologic\\tarotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC480304-30B6-43AF-A74E-85FAF8B9867B}|TaroEmployee.csproj|c:\\users\\machinespirit\\desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepotaro\\cardstaro\\taroemployee\\tarologic\\tarotcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC480304-30B6-43AF-A74E-85FAF8B9867B}|TaroEmployee.csproj|solutionrelative:tarologic\\tarotcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC480304-30B6-43AF-A74E-85FAF8B9867B}|TaroEmployee.csproj|c:\\users\\machinespirit\\desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepotaro\\cardstaro\\taroemployee\\tarologic\\tarotcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,12 +46,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TarotService.cs",
               "DocumentMoniker": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\TaroLogic\\TarotService.cs",
               "RelativeDocumentMoniker": "TaroLogic\\TarotService.cs",
-              "ToolTip": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\TaroLogic\\TarotService.cs",
-              "RelativeToolTip": "TaroLogic\\TarotService.cs",
+              "ToolTip": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\TaroLogic\\TarotService.cs*",
+              "RelativeToolTip": "TaroLogic\\TarotService.cs*",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:14:25.96Z",
@@ -59,13 +59,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TarotCards.cs",
               "DocumentMoniker": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\TaroLogic\\TarotCards.cs",
               "RelativeDocumentMoniker": "TaroLogic\\TarotCards.cs",
-              "ToolTip": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\TaroLogic\\TarotCards.cs",
-              "RelativeToolTip": "TaroLogic\\TarotCards.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\TaroLogic\\TarotCards.cs*",
+              "RelativeToolTip": "TaroLogic\\TarotCards.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:13:41.621Z",
               "EditorCaption": ""
@@ -76,8 +76,8 @@
               "Title": "TarotCard.cs",
               "DocumentMoniker": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\TaroLogic\\TarotCard.cs",
               "RelativeDocumentMoniker": "TaroLogic\\TarotCard.cs",
-              "ToolTip": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\TaroLogic\\TarotCard.cs",
-              "RelativeToolTip": "TaroLogic\\TarotCard.cs",
+              "ToolTip": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\TaroLogic\\TarotCard.cs*",
+              "RelativeToolTip": "TaroLogic\\TarotCard.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:12:02.034Z",
@@ -101,8 +101,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "ToolTip": "C:\\Users\\MachineSpirit\\Desktop\\\u0432\u0441\u044F \u0438\u043D\u0444\u0430\\mitoshi\\mitoshirepoTaro\\cardstaro\\TaroEmployee\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T12:19:53.984Z",

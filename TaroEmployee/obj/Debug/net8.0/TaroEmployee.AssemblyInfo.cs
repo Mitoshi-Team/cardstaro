@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaroEmployee")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+693e12a1a449d9b4b58ac1c8f880c834fe6ce28f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b09c8263a9fc3cf796ecad6afe25a4ed045e6b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaroEmployee")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaroEmployee")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
